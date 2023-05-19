@@ -1,0 +1,16 @@
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 3\Ayeni_B_bmiCalculator\bmiCalculator\bin\Debug\net5.0\bmiCalculator.exe
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 3\Ayeni_B_bmiCalculator\bmiCalculator\bin\Debug\net5.0\bmiCalculator.deps.json
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 3\Ayeni_B_bmiCalculator\bmiCalculator\bin\Debug\net5.0\bmiCalculator.runtimeconfig.json
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 3\Ayeni_B_bmiCalculator\bmiCalculator\bin\Debug\net5.0\bmiCalculator.runtimeconfig.dev.json
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 3\Ayeni_B_bmiCalculator\bmiCalculator\bin\Debug\net5.0\bmiCalculator.dll
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 3\Ayeni_B_bmiCalculator\bmiCalculator\bin\Debug\net5.0\ref\bmiCalculator.dll
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 3\Ayeni_B_bmiCalculator\bmiCalculator\bin\Debug\net5.0\bmiCalculator.pdb
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 3\Ayeni_B_bmiCalculator\bmiCalculator\obj\Debug\net5.0\bmiCalculator.csproj.AssemblyReference.cache
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 3\Ayeni_B_bmiCalculator\bmiCalculator\obj\Debug\net5.0\bmiCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 3\Ayeni_B_bmiCalculator\bmiCalculator\obj\Debug\net5.0\bmiCalculator.AssemblyInfoInputs.cache
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 3\Ayeni_B_bmiCalculator\bmiCalculator\obj\Debug\net5.0\bmiCalculator.AssemblyInfo.cs
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 3\Ayeni_B_bmiCalculator\bmiCalculator\obj\Debug\net5.0\bmiCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 3\Ayeni_B_bmiCalculator\bmiCalculator\obj\Debug\net5.0\bmiCalculator.dll
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 3\Ayeni_B_bmiCalculator\bmiCalculator\obj\Debug\net5.0\ref\bmiCalculator.dll
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 3\Ayeni_B_bmiCalculator\bmiCalculator\obj\Debug\net5.0\bmiCalculator.pdb
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 3\Ayeni_B_bmiCalculator\bmiCalculator\obj\Debug\net5.0\bmiCalculator.genruntimeconfig.cache

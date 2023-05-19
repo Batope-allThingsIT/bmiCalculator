@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = bmiCalculator
+build_property.ProjectDir = C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\Week 3\Ayeni_B_bmiCalculator\bmiCalculator\
